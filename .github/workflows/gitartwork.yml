@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: preetbista
             # Text on contribution graph 
-            text: PREET
+            text: PREET DAI
        - uses: jasineri/simple-push-action@v1
