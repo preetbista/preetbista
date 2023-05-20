@@ -1,6 +1,6 @@
 ![preet](https://github.com/preetbista/preetbista/blob/main/gitartwork.svg)
 
-<h1 align="center">I'm Preet Bistayyyyy</h1>
+<h1 align="center">I'm Preet Bista</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
