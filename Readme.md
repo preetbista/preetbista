@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Preet Bistayyy</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/preetbista/preetbista/blob/main/code_cup.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetbista&label=Profile%20views&color=0e75b6&style=flat" alt="preetbista" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 📫 How to reach me **bistapreet4@gmail.com**
